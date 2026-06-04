@@ -56,19 +56,4 @@ This project demonstrates the practical application of Machine Learning in build
 ---
 
 # OUTPUT
-
-* Similarity Matrix
-* Recommended Movies
-* Personalized Movie Suggestions
-
----
-
-# RESULT
-
-The recommendation system successfully generated relevant movie recommendations based on user rating similarities and demonstrated the effectiveness of collaborative filtering techniques.
-
----
-
-# CONCLUSION
-
-The project successfully implemented a recommendation system that provides personalized movie suggestions using Collaborative Filtering and Cosine Similarity. It highlights how Machine Learning can be used to improve user experience through intelligent recommendations.
+![img](https://github.com/user-attachments/assets/6c41f8bc-ae8c-4f04-8d84-7b430d4b3819)
